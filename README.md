@@ -1,3 +1,7 @@
+项目备忘
+
+原文地址：https://github.com/wepe/MachineLearning.git
+
 MachineLearning
 ====================
 
